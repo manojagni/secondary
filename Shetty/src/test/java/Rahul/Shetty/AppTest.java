@@ -12,5 +12,7 @@ public class AppTest
     {
         System.out.println("This is app test .java file "); 
     System.out.println("This is Second line i have added ");
+    System.out.println("This is third line i have added ");
+    System.out.println("This is fourth line too have added ");  
     }
 }
